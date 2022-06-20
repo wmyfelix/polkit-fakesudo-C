@@ -1,3 +1,7 @@
+#
+```
+A C rewrite for the original project. WIP.  
+```
 ## What is this?
 
 A very very stupid fake sudo,using polkit `pkexec` to grant permissions.It can partly replace sudo in most common scenarios.
